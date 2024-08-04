@@ -1,2 +1,1 @@
-# projeto-nivel-acesso
- Estudando níveis de acesso com Laravel.
+Estudando níveis de acesso com Laravel.
